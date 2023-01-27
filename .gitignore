@@ -3,8 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-# per the setup tutorial at https://www.youtube.com/watch?v=3gCKQlrlyw4
-.vscode/
+# per the setup tutorial at https://www.youtube.com/watch?v=3gCKQlrlyw4/
 
 # User-specific files
 *.rsuser
